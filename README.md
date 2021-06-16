@@ -21,7 +21,7 @@ The main aspects of the MontyPay Android SDK:
 - Minimum SDK 16+
 - Sample Application
 
-To properly set up the SDK, read [Wiki](https://github.com/MontyPay/MontyPay-android-sdk/wiki) first.
+To properly set up the SDK, read [Wiki](https://github.com/MontypayApi/MontyPay-android-sdk/wiki) first.
 To get used to the SDK, download a [sample app](https://github.com/MontyPay/MontyPay-android-sdk/tree/main/sample).
 
 ## Setup
