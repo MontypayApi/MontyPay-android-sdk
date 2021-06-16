@@ -6,7 +6,7 @@ Monty Pay Is a global payment gateway founded as a subsidiary of Monty Capital w
 
 <p align="center">
   <a href="https://montypay.com">
-      <img src="/media/header.jpg" alt="MontyPay" width="400px"/>
+      <img src="https://user-images.githubusercontent.com/85153851/122195876-66844b00-ce9f-11eb-80d3-5f622e406c98.jpg" alt="MontyPay" width="400px"/>
   </a>
 </p>
 
