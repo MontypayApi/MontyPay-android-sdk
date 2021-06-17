@@ -1,4 +1,4 @@
-![](https://jitpack.io/v/MontyPay/MontyPay-android-sdk.svg) | [View SDK Wiki](https://github.com/MontypayApi/MontyPay-android-sdk/wiki) | [Report new issue](https://github.com/MontyPay/MontyPay-android-sdk/issues/new)
+![](https://jitpack.io/v/MontyPay/MontyPay-android-sdk.svg) | [View SDK Wiki](https://github.com/MontypayApi/MontyPay-android-sdk/wiki) | [Report new issue](https://github.com/MontypayApi/MontyPay-android-sdk/issues/new)
 
 # MontyPay Android SDK
 
@@ -46,9 +46,6 @@ dependencies {
 }
 ```
 
-Latest version is: ![](https://jitpack.io/v/MontyPay/MontyPay-android-sdk.svg) 
-
-Also, it is possible to download the latest artifact from the [releases page](https://github.com/MontyPay/MontyPay-android-sdk/releases).
 
 ## Sample
 
@@ -62,13 +59,13 @@ Also, it is possible to download the latest artifact from the [releases page](ht
 
 ## Getting help
 
-To report a specific issue or feature request, open a [new issue](https://github.com/MontypayApi/MontyPay-android-sdk/issues/new).
+To report a specific issue or feature request, open a [new issue](https://github.com/MontypayApi/MontyPay-android-sdk/issues).
 
 Or write a direct letter to the [support@montypay.com](mailto:support@montypay.com).
 
 ## License
 
-MIT License. See the [LICENSE](https://github.com/MontypayApi/MontyPay-android-sdk/blob/main/LICENSEE) file for more details.
+MIT License. See the [LICENSE](https://github.com/MontypayApi/MontyPay-android-sdk/blob/main/LICENSE) file for more details.
 
 ## Contacts
 
