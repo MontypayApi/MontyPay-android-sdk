@@ -84,5 +84,5 @@ Address: MontyPay - Swizerland
 
 
 
-© 2021 MontyPay. All rights reserved.
+© 2021 MontyPay. All rights reserved
 
