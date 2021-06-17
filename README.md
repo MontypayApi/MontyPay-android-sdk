@@ -75,8 +75,8 @@ MIT License. See the [LICENSE](https://github.com/MontyPay/MontyPay-android-sdk/
 ![](/media/footer.jpg)
 
 Website: https://montypay.com
-Phone: [+31-638-7642-70](tel:31638764270)  
+Phone: [+961-1-748847](tel:+9611748847)  
 Email: [info@montypay.com](mailto:info@montypay.com)  
-Address: MontyPay BV, Kingsfordweg 151, 1043 GR Amsterdam, The Netherlands  
+Address: MontyPay Swizerland  
 
 © 2014 - 2020 MontyPay. All rights reserved.
