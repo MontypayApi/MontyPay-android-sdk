@@ -1,4 +1,4 @@
-![](https://jitpack.io/v/MontyPay/MontyPay-android-sdk.svg) | [View SDK Wiki](https://github.com/MontyPay/MontyPay-android-sdk/wiki) | [Report new issue](https://github.com/MontyPay/MontyPay-android-sdk/issues/new)
+![](https://jitpack.io/v/MontyPay/MontyPay-android-sdk.svg) | [View SDK Wiki](https://github.com/MontypayApi/MontyPay-android-sdk/wiki) | [Report new issue](https://github.com/MontyPay/MontyPay-android-sdk/issues/new)
 
 # MontyPay Android SDK
 
