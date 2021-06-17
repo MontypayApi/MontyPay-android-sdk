@@ -62,21 +62,27 @@ Also, it is possible to download the latest artifact from the [releases page](ht
 
 ## Getting help
 
-To report a specific issue or feature request, open a [new issue](https://github.com/MontyPay/MontyPay-android-sdk/issues/new).
+To report a specific issue or feature request, open a [new issue](https://github.com/MontypayApi/MontyPay-android-sdk/issues/new).
 
-Or write a direct letter to the [admin@MontyPay.com](mailto:admin@MontyPay.com).
+Or write a direct letter to the [support@montypay.com](mailto:support@montypay.com).
 
 ## License
 
-MIT License. See the [LICENSE](https://github.com/MontyPay/MontyPay-android-sdk/blob/main/LICENSE) file for more details.
+MIT License. See the [LICENSE](https://github.com/MontypayApi/MontyPay-android-sdk/blob/main/LICENSEE) file for more details.
 
 ## Contacts
 
-![](/media/footer.jpg)
+![](https://user-images.githubusercontent.com/85153851/122368628-2b991a80-cf66-11eb-96d2-e7123e7507ee.png)
 
-Website: https://montypay.com
-Phone: [+961-1-748847](tel:+9611748847)  
-Email: [info@montypay.com](mailto:info@montypay.com)  
-Address: MontyPay Swizerland  
+Website: [https://www.montypay.com](https://www.montypay.com)
 
-© 2014 - 2020 MontyPay. All rights reserved.
+Phone: +961-1-748847
+
+Email: support@montypay.com
+
+Address: MontyPay - Swizerland 
+
+
+
+© 2021 MontyPay. All rights reserved.
+
