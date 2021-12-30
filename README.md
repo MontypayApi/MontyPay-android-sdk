@@ -77,7 +77,7 @@ Phone: +961-1-748847
 
 Email: support@montypay.com
 
-Address: MontyPay - Swizerland 
+Address: MontyPay - UK 
 
 
 
