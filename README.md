@@ -69,7 +69,7 @@ MIT License. See the [LICENSE](https://github.com/MontypayApi/MontyPay-android-s
 
 ## Contacts
 
-![](https://user-images.githubusercontent.com/85153851/122368628-2b991a80-cf66-11eb-96d2-e7123e7507ee.png)
+
 
 Website: [https://www.montypay.com](https://www.montypay.com)
 
